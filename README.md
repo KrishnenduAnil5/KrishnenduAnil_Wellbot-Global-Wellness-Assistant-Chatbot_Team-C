@@ -107,7 +107,7 @@ Cloud deployment (AWS / Vercel / Render)
 Wearable device integration
 Predictive health analytics
 🤝 Contributors
-Sai Shashank
+Krishnendu Anil
 Team C
 📜 License
 This project is licensed under the MIT License.
